@@ -5,4 +5,3 @@
 ```
     username: student
     password: qatester
-```
